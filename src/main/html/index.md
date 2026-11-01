@@ -1,11 +1,24 @@
-\# Project Reports
+</head>
+
+<body>
+
+&#x20;   <h1>Project Reports</h1>
 
 
 
-Mark Foust
+&#x20;   <p>Mark Foust</p>
 
 
 
-* \[Tests](./tests/test/)
-* \[JavaDoc](./Javadoc/)
+&#x20;   <ul>
+
+&#x20;       <li><a href="./tests/test/">Tests</a></li>
+
+&#x20;       <li><a href="./javadoc/">JavaDoc</a></li>
+
+&#x20;   </ul>
+
+</body>
+
+</html>
 
