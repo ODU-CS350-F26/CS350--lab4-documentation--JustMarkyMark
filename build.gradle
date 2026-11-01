@@ -45,7 +45,7 @@ task copyDocs(type: Copy, dependsOn: javadoc){
 task reports (dependsOn: [build, copyHTML, copyDocs])
 
 gitPublish{
-	repoUri = 'git@github.com:ODU-CS350-F26/CS350--gradleAsst--JustMarkyMark.git'
+	repoUri = 'git@github.com:ODU-CS350-F26/CS350--lab4-documentation--JustMarkyMark.git'
 	branch = 'gh-pages'
 
 	contents{
