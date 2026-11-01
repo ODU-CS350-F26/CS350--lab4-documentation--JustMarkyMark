@@ -1,6 +1,7 @@
 # Project Reports
 
-Your Name
+Mark Foust
 
 * [Tests](./reports/tests/test/)
 * [JavaDoc](./reports/javadoc/)
+
