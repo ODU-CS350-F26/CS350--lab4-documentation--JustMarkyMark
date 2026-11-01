@@ -6,6 +6,7 @@ Mark Foust
 
 
 
-* \[Tests](./tests/test/)
-* \[JavaDoc](./Javadoc/)
+\*\[Tests](./tests/test/)
+
+\*\[JavaDoc](./Javadoc/)
 
